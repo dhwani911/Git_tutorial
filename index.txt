@@ -1,1 +1,2 @@
 This is index file of git and github.
+I am using it to learn Git.
