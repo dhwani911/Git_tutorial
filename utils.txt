@@ -1,2 +1,3 @@
 This is another file for GIT and GitHub.
-Now creating SSH key
+Now creating SSH key.
+It is used to push data into Git repository.
